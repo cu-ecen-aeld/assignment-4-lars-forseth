@@ -2,3 +2,7 @@
 build/
 .vscode/
 *.log
+
+# Don't upload the GitHub Action Runner!
+actions-runner/
+
